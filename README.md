@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Biesito
+- 👋 Hi, I’m Gabriel Ferreira
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Statistics
 - ⚡ Fun fact: bleach is my favorite anime
