@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gabriel Ferreira
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Statistics
-- ⚡ Fun fact: bleach is my favorite anime
+- 🧙‍♂️ Hi, I’m Gabriel Ferreira
+- ⚛️ I’m interested in Data Science
+- 🌲 I'm working on PineStake
+- 💭 Fun fact: bleach is my favorite anime
 
 <!---
 Biesito/Biesito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
